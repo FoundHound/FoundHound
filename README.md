@@ -1,6 +1,8 @@
 # FoundHound
 Find your pet friend.
+
 Group Name: One Man Band
+
 Member: Wilson Acosta
 
 # Summary: 
