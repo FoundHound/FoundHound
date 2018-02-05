@@ -1,0 +1,9 @@
+<%- include('header') -%>
+
+<%- include('navigation') -%>
+  <div id="root"><%- initialMarkup -%></div>
+
+  <script type="text/javascript">
+    window.initialData = <%- JSON.stringify(initialData) -%>;
+  </script>
+<%- include('footer') -%>
