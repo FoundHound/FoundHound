@@ -30,11 +30,14 @@
   border: none;
 }
 
+
+
 .navbar{
 
   .navbar-toggle {
     float:left;
     border: none;
+    margin-right: 0;
 
     .icon-bar {
       background-color: #46C8F5;
@@ -52,11 +55,17 @@
       #user-login-icon {
         float:right;
         font-size: 24.75px;
+        padding-right:10px;
+        color: #46C8F5;
       }
   }
 }
 
 
+
+//.header-home-img {
+ // background: src(./assets/images/found_hound_logo.png);
+//}
 
 
 /*--------Used for keeping Nav-Bar Hambuger for All screens--------*/

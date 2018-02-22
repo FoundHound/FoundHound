@@ -5,6 +5,7 @@ const Header = ({ message }) => {
     <h2 className="Header text-center">
       {message}
     </h2>
+    
   );
 };
 
